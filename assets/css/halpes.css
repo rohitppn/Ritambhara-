@@ -24,6 +24,7 @@
     --thm-gray: #707876;
     --thm-gray-rgb: 112, 120, 118;
     --thm-primary: #2E2F81;
+    --thm-primary-color: #fdfdff;
     --thm-primary-rgb: 21, 200, 160;
     --thm-black: #1f2230;
     --thm-black-rgb: 31, 34, 48;
@@ -3095,7 +3096,7 @@ h6 {
 
 .help-them__top-video-text {
     font-size: 30px;
-    color: var(--thm-primary);
+    color: var(--thm-primary-color);
     font-family: var(--thm-reey-font);
     font-weight: 400;
     margin-left: 54px;
@@ -3120,7 +3121,7 @@ h6 {
 
 .help-them__icon span {
     font-size: 65px;
-    color: var(--thm-primary);
+    color: var(--thm-primary-color);
     line-height: 65px;
     position: relative;
     display: block;
