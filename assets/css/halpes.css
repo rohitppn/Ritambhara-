@@ -82,7 +82,10 @@ h6 {
     color: inherit;
     opacity: 1;
 }
+.big_logo{
+    background-color: red;
 
+}
 
 .page-wrapper {
     position: relative;
@@ -258,7 +261,7 @@ h6 {
     float: left;
     background-color: var(--thm-primary);
     text-align: center;
-    padding: 44px 0;
+    padding: 45px 0;
 }
 
 
@@ -531,7 +534,7 @@ h6 {
 
 .main-menu .main-menu__list>li>a,
 .stricky-header .main-menu__list>li>a {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 700;
     display: flex;
     align-items: center;
@@ -7448,3 +7451,5 @@ h6 {
     position: relative;
     margin-top: 10px;
 }
+
+
